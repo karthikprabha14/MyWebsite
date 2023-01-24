@@ -1,0 +1,125 @@
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    line-height: 2;
+    font-size: 90px;
+}
+
+h2 {
+    font-family: 'Merriweather', serif;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+}
+
+hr {
+    border: solid;
+    border-style: none none dotted none;
+    width: 5%;
+    border-width: 5px;
+    border-color: #EAF6F6;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+a {
+    color: #11999E;
+    padding: 10px;
+}
+
+.top-container {
+    background-color:#D4ECDD;
+    padding-top: 100px;
+    position: relative;
+}
+
+.middle-container {
+    padding-top: 20px;
+    background-color: white;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 150px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 150px;
+}
+
+.profile {
+    line-height: 2;
+    margin: 50px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.web-design {
+    width: 25%;
+    float: right;
+    margin: auto auto auto 30px;
+}
+
+.apple-design {
+    width: 25%;
+    float: left;
+    margin: auto 30px auto auto;
+}
+
+.contact-me {
+    margin: 50px;
+    line-height: 2;
+}
+
+.contact-btn {
+  background: #11cdd4;
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-radius: 8px;
+  font-family: "Merriweather";
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border-width: 0;
+  margin: 50px;
+}
+
+.contact-btn:hover {
+    background: #30e3cb;
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+    border-width: 0;
+}
+
+.copy-right {
+    color: #EAF6F6;
+    padding: auto;
+}
+
+.profile-description {
+    width: 50%;
+    margin: auto;
+}
+
+
